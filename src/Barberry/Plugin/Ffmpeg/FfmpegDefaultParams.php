@@ -77,7 +77,7 @@ class FfmpegDefaultParams
             'avi' => 'mpeg4',
             'mkv' => 'libtheora',
             'mov' => 'mpeg4',
-            'mp4' => 'mpeg4',
+            'mp4' => 'libx264',
             'mpg' => 'mpeg1video',
             'ogv' => 'libtheora',
             '3gp' => 'mpeg4'
